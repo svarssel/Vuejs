@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Macbook",
+    "nome": "Macbook",
+    "preco": 2999,
+    "img": "./api/produtos/macbook/macbook.jpg"
+  },
+  {
+    "id": "Iphone",
+    "nome": "Iphone",
+    "preco": 1299,
+    "img": "./api/produtos/iphone/iphone.jpg"
+  },
+  {
+    "id": "tablet",
+    "nome": "Tablet",
+    "preco": 899,
+    "img": "./api/produtos/tablet/tablet.jpg"
+  },
+  {
+    "id": "AppleWatch",
+    "nome": "AppleWatch",
+    "preco": 1199,
+    "img": "./api/produtos/applewatch/applewatch.jpg"
+  },
+  {
+    "id": "speaker",
+    "nome": "Speaker",
+    "preco": 599,
+    "img": "./api/produtos/speaker/speaker.jpg"
+  }
+]
