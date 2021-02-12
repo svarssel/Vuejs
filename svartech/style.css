@@ -31,10 +31,7 @@ body {
 }
 
 .logo {
-  width: 70px;
-  margin-left: 25px;
-  
-
+  width: 100px;
 }
 
 .carrinho_menu::after {
@@ -390,7 +387,4 @@ body {
     padding: 10px;
   }
 
-  .logo {
-    width: 15%;
-  }
 }
